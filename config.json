@@ -1,0 +1,7 @@
+{
+    "host": "127.0.0.1",
+    "port0": 5001,
+    "p0addr": "/dev/usb/lp0",
+    "port1": 5002,
+    "p1addr": "/dev/usb/lp1"
+}
